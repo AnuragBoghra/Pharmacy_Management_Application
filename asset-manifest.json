@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Pharmacy_Management_Application/static/css/main.6ca62439.css",
+    "main.js": "/Pharmacy_Management_Application/static/js/main.e7beb324.js",
+    "index.html": "/Pharmacy_Management_Application/index.html",
+    "main.6ca62439.css.map": "/Pharmacy_Management_Application/static/css/main.6ca62439.css.map",
+    "main.e7beb324.js.map": "/Pharmacy_Management_Application/static/js/main.e7beb324.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ca62439.css",
+    "static/js/main.e7beb324.js"
+  ]
+}
